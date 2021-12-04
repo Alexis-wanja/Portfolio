@@ -5,4 +5,9 @@ body {
   background-color: pink;
   font-family: sans-serif;
   text-align: justify;
+  margin: 0;
+}
+.container {
+  width: 80%;
+  margin:auto;
 }
