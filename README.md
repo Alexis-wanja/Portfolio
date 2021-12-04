@@ -13,4 +13,4 @@ This is my portfolio which includes my name, an image that represents me, a list
 *
 *
 ## Technologies Used
-Languages used include CSS and HTML. Bootstrap was also used.
+Languages used include CSS, HTML and the framework used is Bootstrap.
