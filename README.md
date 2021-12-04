@@ -16,4 +16,6 @@ This is my portfolio which includes my name, an image that represents me, a list
 Languages used include CSS, HTML and the framework used is Bootstrap.
 
 ### License
-*{Determine the license under which this application can be used.  See below for more details on licensing.}*
+MIT License
+Permission is granted to any person free of charge to modify the software.
+The above copyright notice and this permission notice shall be included in all copies or substantial portions of the Software.
