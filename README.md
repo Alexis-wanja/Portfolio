@@ -14,3 +14,6 @@ This is my portfolio which includes my name, an image that represents me, a list
 *
 ## Technologies Used
 Languages used include CSS, HTML and the framework used is Bootstrap.
+
+### License
+*{Determine the license under which this application can be used.  See below for more details on licensing.}*
